@@ -1,6 +1,6 @@
 <p align="center"> <img src="yellow scheme.jpeg" width="140" alt="SwimMotiv logo"> </p>
 
-# **SwimMotiv [Age 14&U]**
+<h1 align="center">SwimMotiv [Age 14&U]</h1>
 
 Motivational times, Power Points and age group championship (AGC) cuts for 14-and-under competitive swimmers — built for quick, easy use right at the pool deck.
 
