@@ -18,6 +18,7 @@ SwimMotiv works entirely offline. No account, login, or internet connection is r
 - **iPhone / iPad (App Store):** https://apps.apple.com/us/app/swimmotiv-age-14-u/id6819361204
 - **Android APK (direct download, no Google Play needed):**
   [(https://github.com/andywangswimtx/SwimMotiv/releases/download/v0.1.4/SwimMotiv-v014.apk)](https://github.com/andywangswimtx/SwimMotiv/releases/download/v0.1.4/SwimMotiv-v014.apk)
+  
   (all versions: https://github.com/andywangswimtx/SwimMotiv/releases)
 
 ## Install the APK (Xiaomi / Oppo / Huawei / Honor / any Android)
